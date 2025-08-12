@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/landing-page/static/css/main.510ef798.css",
+    "main.js": "/landing-page/static/js/main.e1d20b96.js",
+    "static/js/453.8145ecbf.chunk.js": "/landing-page/static/js/453.8145ecbf.chunk.js",
+    "static/media/hero_img.webp": "/landing-page/static/media/hero_img.ae5ba55a839bed60a12a.webp",
+    "static/media/mostplayed1.webp": "/landing-page/static/media/mostplayed1.636a6c6a73cf1b5a981f.webp",
+    "static/media/weekGame1.png": "/landing-page/static/media/weekGame1.1d2cd167f994964a8de8.png",
+    "static/media/weekGame4.png": "/landing-page/static/media/weekGame4.2bdbf366251909bfe59a.png",
+    "static/media/mostplayed3.png": "/landing-page/static/media/mostplayed3.28ee16af546fc8de378f.png",
+    "static/media/weekGame2.png": "/landing-page/static/media/weekGame2.69b75627a4f0deb1c618.png",
+    "static/media/weekGame3.png": "/landing-page/static/media/weekGame3.534ee9f82b6d455cb345.png",
+    "static/media/mostplayed2.png": "/landing-page/static/media/mostplayed2.8a58d56c5c627990c64e.png",
+    "static/media/best_game.webp": "/landing-page/static/media/best_game.da902dde032e5609a652.webp",
+    "static/media/popular_4.webp": "/landing-page/static/media/popular_4.4efc89e25aaa741c2b8d.webp",
+    "static/media/popular_2.webp": "/landing-page/static/media/popular_2.7ccefd748e852ab0bf78.webp",
+    "static/media/popular_1.webp": "/landing-page/static/media/popular_1.3271915364c99623fb63.webp",
+    "static/media/popular_3.webp": "/landing-page/static/media/popular_3.093a94779b0c056bbe17.webp",
+    "static/media/logo.svg": "/landing-page/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/landing-page/index.html",
+    "main.510ef798.css.map": "/landing-page/static/css/main.510ef798.css.map",
+    "main.e1d20b96.js.map": "/landing-page/static/js/main.e1d20b96.js.map",
+    "453.8145ecbf.chunk.js.map": "/landing-page/static/js/453.8145ecbf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.510ef798.css",
+    "static/js/main.e1d20b96.js"
+  ]
+}
