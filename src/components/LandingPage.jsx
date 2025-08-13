@@ -33,7 +33,7 @@ const LandingPage = () => {
       <section className="features">
         <div className="feature-card glass">
           <FaGamepad className="icon" />
-          <h3>10,000+ Live Games</h3>
+          <h3>Exciting Live Games</h3>
         </div>
         <div className="feature-card glass">
           <FaTrophy className="icon" />
