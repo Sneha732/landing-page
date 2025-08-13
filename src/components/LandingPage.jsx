@@ -53,13 +53,13 @@ const LandingPage = () => {
         <h2 className="glow-text">Explore Your Favorite Games</h2>
         <div className="game-grid">
           {[
-            { name: "Lottery", img: lottery },
+            { name: "Skill Base Game", img: lottery },
             { name: "Mini Games", img: mini_games },
             { name: "Hot Slots", img: hot_slots },
             { name: "Slots", img: slots },
             { name: "Fishing", img: fishing },
             { name: "PVC", img: pvc },
-            { name: "Casino", img: casino },
+            { name: "Latest Game", img: casino },
             { name: "Sports", img: sports },
           ].map((game, i) => (
             <div key={i} className="game-card glass-hover">
