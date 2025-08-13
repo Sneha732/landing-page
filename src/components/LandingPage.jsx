@@ -20,7 +20,7 @@ const LandingPage = () => {
           Join thousands of players winning daily in live casino games,
           lotteries, and slots.
         </p>
-        <div className="icon-button">
+        <div className="icon-btn">
           <a
             href="https://wa.me/919999999999"
             target="_blank"
