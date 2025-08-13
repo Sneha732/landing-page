@@ -20,22 +20,24 @@ const LandingPage = () => {
           Join thousands of players winning daily in live casino games,
           lotteries, and slots.
         </p>
-        <a
-          href="https://wa.me/919999999999"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="whatsapp-btn pulse"
-        >
-          <FaWhatsapp /> Get Your ID on WhatsApp
-        </a>
-         <a
-          href="https://t.me/919999999999"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="whatsapp-btn pulse"
-        >
-          <FaTelegram /> Get Your ID on Telegram
-        </a>
+        <div className="icon-button">
+          <a
+            href="https://wa.me/919999999999"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="whatsapp-btn pulse"
+          >
+            <FaWhatsapp /> Get Your ID on WhatsApp
+          </a>
+          <a
+            href="https://t.me/919999999999"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="whatsapp-btn pulse"
+          >
+            <FaTelegram /> Get Your ID on Telegram
+          </a>
+        </div>
       </section>
 
       <section className="features">
