@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/landing-page/static/css/main.86a3748d.css",
-    "main.js": "/landing-page/static/js/main.6726b7b5.js",
+    "main.css": "/landing-page/static/css/main.a40db759.css",
+    "main.js": "/landing-page/static/js/main.fe5d9d46.js",
     "static/media/minigames.png": "/landing-page/static/media/minigames.dce22e5844e5c6f0d079.png",
     "static/media/fishing.png": "/landing-page/static/media/fishing.8c320afaca04f9fd9cf8.png",
     "static/media/wingo.png": "/landing-page/static/media/wingo.42f24f8fa305d9923d1d.png",
@@ -12,11 +12,11 @@
     "static/media/pvc.png": "/landing-page/static/media/pvc.4dd1b38fbee3bbf4b9fe.png",
     "static/media/sports.png": "/landing-page/static/media/sports.2d5dbc771e7fa5b6f7bc.png",
     "index.html": "/landing-page/index.html",
-    "main.86a3748d.css.map": "/landing-page/static/css/main.86a3748d.css.map",
-    "main.6726b7b5.js.map": "/landing-page/static/js/main.6726b7b5.js.map"
+    "main.a40db759.css.map": "/landing-page/static/css/main.a40db759.css.map",
+    "main.fe5d9d46.js.map": "/landing-page/static/js/main.fe5d9d46.js.map"
   },
   "entrypoints": [
-    "static/css/main.86a3748d.css",
-    "static/js/main.6726b7b5.js"
+    "static/css/main.a40db759.css",
+    "static/js/main.fe5d9d46.js"
   ]
 }
