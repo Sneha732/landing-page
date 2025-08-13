@@ -1,6 +1,6 @@
 import React from "react";
 import "./LandingPage.css";
-import { FaWhatsapp, FaTrophy, FaGamepad } from "react-icons/fa";
+import { FaWhatsapp, FaTrophy, FaGamepad, FaTelegram } from "react-icons/fa";
 import { GiCrown } from "react-icons/gi";
 import wingo from "./Assets/wingo.png";
 import slots from "./Assets/slots.png";
@@ -27,6 +27,14 @@ const LandingPage = () => {
           className="whatsapp-btn pulse"
         >
           <FaWhatsapp /> Get Your ID on WhatsApp
+        </a>
+         <a
+          href="https://t.me/919999999999"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="whatsapp-btn pulse"
+        >
+          <FaTelegram /> Get Your ID on Telegram
         </a>
       </section>
 
