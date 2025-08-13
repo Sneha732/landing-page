@@ -6,6 +6,11 @@ import wingo from "./Assets/wingo.png";
 import slots from "./Assets/slots.png";
 import sports from "./Assets/sports.png";
 import casino from "./Assets/casino.png";
+import lottery from "./Assets/lottery.png";
+import mini_games from "./Assets/minigames.png";
+import hot_slots from "./Assets/hotslots.png";
+import fishing from "./Assets/fishing.png";
+import pvc from "./Assets/pvc.png";
 const LandingPage = () => {
   return (
     <div className="landing">
@@ -48,14 +53,14 @@ const LandingPage = () => {
         <h2 className="glow-text">Explore Your Favorite Games</h2>
         <div className="game-grid">
           {[
-            { name: "Win Go", img: wingo },
-            { name: "K3", img: casino },
-            { name: "5D", img: casino },
-            { name: "TRX Wingo", img: wingo },
+            { name: "Lottery", img: lottery },
+            { name: "Mini Games", img: mini_games },
+            { name: "Hot Slots", img: hot_slots },
             { name: "Slots", img: slots },
+            { name: "Fishing", img: fishing },
+            { name: "PVC", img: pvc },
             { name: "Casino", img: casino },
             { name: "Sports", img: sports },
-            { name: "Fishing", img: slots },
           ].map((game, i) => (
             <div key={i} className="game-card glass-hover">
               <img src={game.img} alt={game.name} className="game-img" />
